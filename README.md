@@ -30,7 +30,7 @@ An exploration of the relationship between lyrical structure and song popularity
 * **Feature Engineering:** Engineered a novel feature, `repetition_ratio`, by applying Natural Language Processing techniques to quantify lyrical repetitiveness.
 * **Hypothesis Testing:** Established a statistically significant correlation between `repetition_ratio` and song "danceability," challenging baseline models that relied solely on audio features.
 
-📂 **[View Project Code & Papers](./project-nlp-lyrics)**
+📂 **[View Project Code & Papers](./music)**
 
 ---
 
@@ -46,7 +46,7 @@ A deep dive into retail analytics, diagnosing the key drivers of sales volume fo
 * **Model Optimization:** Constructed a high-precision regression model utilizing Box-Cox transformations to resolve non-normality issues.
 * **Feature Selection:** Applied BIC-based (Bayesian Information Criterion) stepwise selection to optimize feature usage without over-complicating the model.
 
-📂 **[View Project Code & Report](./project-zara-sales)**
+📂 **[View Project Code & Report](./zara)**
 
 ---
 
