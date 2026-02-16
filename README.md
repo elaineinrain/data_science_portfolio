@@ -15,7 +15,7 @@ This project focused on isolating the variables that influence net points in fen
 * **Multivariate Analysis:** Conducted a comparative analysis between parametric methods (Linear & Stepwise Regression) and non-parametric methods (Regression Trees & Ensembles).
 * **Validation Strategy:** Implemented $k$-fold cross-validation to rigorously validate model performance, minimizing overfitting and ensuring the predictors identified were robust to new data.
 
-📂 **[View Project Code & Analysis](./project-fencing-analysis)**
+📂 **[View Project Code & Analysis](./fencing)**
 
 ---
 
